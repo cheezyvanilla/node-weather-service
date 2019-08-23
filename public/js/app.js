@@ -1,6 +1,3 @@
-console.log('trying!')
-
-
 
 const locForm = document.querySelector('form')
 const search = document.querySelector('input')
